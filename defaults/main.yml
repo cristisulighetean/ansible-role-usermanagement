@@ -1,0 +1,8 @@
+---
+group_name: "test-group"
+
+users:
+  - name: "test-user"
+    password_hash: "password_hash"
+
+public_key_path: "/path/to/public/key"
